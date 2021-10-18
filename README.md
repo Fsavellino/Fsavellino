@@ -31,8 +31,7 @@ http://www.labsmart.ifsc.edu.br/energia/
 	
   <a href="https://github.com/Fsavellino">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Fsavellino&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fsavellino&layout=compact&langs_count=7&theme=blue-green"/>
-
+  
 </div>
 
 ## Minhas redes sociais <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
