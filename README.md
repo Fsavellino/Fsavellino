@@ -10,7 +10,7 @@ http://www.labsmart.ifsc.edu.br/energia/
 
 Experiência nas seguintes áreas:
 - Desenvolvimento de circuitos/placas eletrônicas
-- Desenvolvimento de gráficos de potência/energia utilizando o METABASE
+- Desenvolvimento de gráficos utilizando o METABASE
 - Impressão 3D
 - Banco de Dados
 - Projetos utilizando Arduino e seus sensores
