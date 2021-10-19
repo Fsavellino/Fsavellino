@@ -8,14 +8,7 @@ Atualmente estou na 6 fase do curso de Engenharia Eletrônica no Instituto Feder
 Bolsista no laboratório de pesquisa Labsmart, atuando na área de eficiência energética.
 http://www.labsmart.ifsc.edu.br/energia/
 
-<img src="https://lh3.googleusercontent.com/proxy/tGpB33eWSXe24jJGvOJHWA4xMc6ZOGk5FTftEbMmUzVstS0bNG1we0wZpjBBBS2GaFbhJs2gy_XMNKxtAt8KvIRSr__SU9FBSru1tkxMwzMbfmZf" width="150">
-
-#### Experiência nas seguintes áreas:
-- Desenvolvimento de circuitos/placas eletrônicas
-- Desenvolvimento de gráficos utilizando o METABASE
-- Impressão 3D
-- Banco de Dados
-- Projetos utilizando Arduino e seus sensores
+<img alt="labsmart" src="https://user-images.githubusercontent.com/72568537/137894455-a6df2be5-7009-41e4-9cec-68691954b529.png" width="190" />
 
 ## Liguagens mais usadas por mim
 
