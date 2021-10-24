@@ -5,7 +5,9 @@
 **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Atualmente estou na 6 fase do curso de Engenharia Eletrônica no Instituto Federal de Santa Catarina;
+
 Bolsista no laboratório de pesquisa Labsmart, atuando na área de eficiência energética.
+
 http://www.labsmart.ifsc.edu.br/energia/
 
 <img alt="labsmart" src="https://user-images.githubusercontent.com/72568537/137894455-a6df2be5-7009-41e4-9cec-68691954b529.png" width="190" />
