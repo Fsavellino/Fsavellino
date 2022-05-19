@@ -2,6 +2,7 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
+
 **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Atualmente estou na 6 fase do curso de Engenharia Eletrônica no Instituto Federal de Santa Catarina;
