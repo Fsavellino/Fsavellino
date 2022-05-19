@@ -20,14 +20,6 @@ http://www.labsmart.ifsc.edu.br/energia/
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-</div>
-
-<div align="left">
-	
-  <a href="https://github.com/Fsavellino">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Fsavellino&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  
-</div>
 
 ## Minhas redes sociais <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
