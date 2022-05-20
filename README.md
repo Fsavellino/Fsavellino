@@ -1,9 +1,5 @@
 ## Bem vindo ao meu perfil!
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-
-
 Atualmente estou na 6 fase do curso de Engenharia Eletrônica no Instituto Federal de Santa Catarina;
 
 Bolsista no laboratório de pesquisa Labsmart, atuando na área de eficiência energética.
@@ -19,8 +15,8 @@ http://www.labsmart.ifsc.edu.br/energia/
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  
-  
+
+
 ## Minhas redes sociais <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <div>	
