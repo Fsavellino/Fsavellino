@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil!
 
-Atualmente estou na 6 fase do curso de Engenharia Eletrônica no Instituto Federal de Santa Catarina;
+Atualmente estou na 7 fase do curso de Engenharia Eletrônica no Instituto Federal de Santa Catarina;
 
 Bolsista no laboratório de pesquisa Labsmart, atuando na área de eficiência energética.
 
